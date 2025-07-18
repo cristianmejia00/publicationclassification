@@ -6,4 +6,5 @@ test/
 .classpath
 .project
 data/
+tmp/
 classification.txt
